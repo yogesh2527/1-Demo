@@ -7,7 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'demo';
+H
+r
 
+er
+er
+tert
+er
 name= 'Messi';
 n='Neymar';
 }
