@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'demo';
 
 name= 'Messi';
+n='Neymar';
 }
